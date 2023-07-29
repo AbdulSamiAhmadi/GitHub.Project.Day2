@@ -6,5 +6,6 @@ public class DemoDay3 {
 		
 		System.out.println("This is Ahmadi.........");
 	}
-
+String country = "USA";
+String state = "VA";
 }
